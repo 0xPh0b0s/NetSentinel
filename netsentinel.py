@@ -791,7 +791,7 @@ class Dashboard:
                     Text(mitre_id, style="dim yellow"),
                 )
 
-        return Panel(table, title="[bold red]🚨 Threat Events[/bold red]", border_style="red")
+        return Panel(table, title="[bold red] Threat Events[/bold red]", border_style="red")
 
     def _connections_table(self, connections: list[ConnectionRecord]) -> Panel:
         table = Table(
