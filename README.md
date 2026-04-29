@@ -132,3 +132,4 @@ Then add a call to it in `NetSentinel.run()`.
 
 NetSentinel is for authorized security monitoring only.
 Use only on networks and systems you own or have explicit permission to monitor.
+Credits reserved to 0xNullVector
