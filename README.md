@@ -1,6 +1,6 @@
 # NetSentinel — Passive Network Threat Intelligence Engine
 
-A sophisticated, zero-dependency-on-root passive network monitor that detects real threats
+A Proof of concept, zero-dependency-on-root passive network monitor that detects real threats
 using behavioral analysis, heuristics, and MITRE ATT&CK mapping.
 
 ---
