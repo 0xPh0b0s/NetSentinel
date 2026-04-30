@@ -7,7 +7,7 @@
 
 Monitors active connections, detects threats, and produces
 structured threat intelligence reports — no packet capture
-privileges required for the core analysis engine.
+privileges required for the core analysis engine. Credits reserved to 0xNullVector on github
 """
 
 import sys
